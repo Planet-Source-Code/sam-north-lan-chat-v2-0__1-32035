@@ -1,0 +1,4 @@
+Supported commands:
+
+List the current users		/:listusers
+Kick a user			/:kickuser [Windows user name]
